@@ -1,4 +1,4 @@
-var web = '/sites/DssGblInnovationIdeas/IdeaRep/';
+var web = '';
 ExecuteOrDelayUntilScriptLoaded(Initialize, "sp.js");
 
 function Initialize() {
